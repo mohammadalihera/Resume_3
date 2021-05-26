@@ -9,7 +9,7 @@
 }
 
 body{
-	background: linear-gradient(to right, #098cc0, #024c6e);
+	background: linear-gradient(to right, #e8ec07, #eaee0b);
 	
 }
 .icon{
@@ -18,13 +18,13 @@ body{
 
 .resume{
 	width:8.62in;
-	height: 12.23in;
+	height: 12.2in;
 	background: #fff;
 	margin-left:auto;
 	margin-right: auto;
 	
 	
-	-webkit-box-shadow: 0 0 50px rgb(2, 104, 129);
+	-webkit-box-shadow: 0 0 50px rgb(232, 236, 6);
         box-shadow: 50 50 50px rgb(253, 253, 253);
 }
 .left_right{
@@ -54,7 +54,7 @@ body{
 	background: #152c1ef5;
 	width: 240px;
 	align-items: center;
-	height: 9.83in;
+	height: 9.8in;
 	
 }
 .contact_wrap{
