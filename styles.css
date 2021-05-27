@@ -145,9 +145,9 @@ body{
 .contact .li_wrap .text:hover{
    text-decoration: underline orange;
 }
-/* .contact .icon .i{
+.contact .icon .i{
 	height: 118px;
-} */
+}
 .d_name_collage{
 	padding-bottom: 5px;
 }
